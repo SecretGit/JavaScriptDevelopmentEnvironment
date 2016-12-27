@@ -1,11 +1,27 @@
-### TOPICS
+### TOPICS - Course Outline
 
-- Starter Kit
-  -- What belongs in starter kit:
-    --- Package Management, Bundling, Minification, Sourcemap, Transpiling, Centralized HTTP,
-        Component Libraries, Dev Server, Linting, Automated Testing, CI, Automated Build, Automated Deployment, Example app
-- Setup GitHub
+1. Intro - Starter Kit
+    - What belongs in starter kit:
+        -- Package Management, Bundling, Minification, Sourcemap, Transpiling, Centralized HTTP,
+            Component Libraries, Dev Server, Linting, Automated Testing, CI, Automated Build, Automated Deployment, Example app
+    * Setup GitHub
+    - You need starter kit:
+        -- Reduce Decision Fatigue
+        -- Right thing becomes automatic
+        -- Codifies lessons learned
+        -- Repid feedback
+        -- Automated checklist
 
+
+2. Editors Configuration
+3. Package Management
+4. Development Web Server
+5. Automation
+6. Transpiling
+7. Bundling
+8. Linting
+9. Testing and Continous Integration
+10. HTTP Calls
 
 
 
