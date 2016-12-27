@@ -1,0 +1,26 @@
+### TOPICS
+
+- Starter Kit
+  -- What belongs in starter kit:
+    --- Package Management, Bundling, Minification, Sourcemap, Transpiling, Centralized HTTP,
+        Component Libraries, Dev Server, Linting, Automated Testing, CI, Automated Build, Automated Deployment, Example app
+- Setup GitHub
+
+
+
+
+### Good quotes
+- Boilerplates are good because they might act as a checklist i.e. linting, testing etc etc
+- EmberJS is like a religion - you accept it all or you won't fit in
+
+###
+Boilerplate:
+    - save time
+    - proven
+    - full-featured
+Your own bolierplate:
+    - Freedom
+    - Perfect fit for your team
+    - No unnecessary complexity
+    - Undestand it
+    - Easier to change
