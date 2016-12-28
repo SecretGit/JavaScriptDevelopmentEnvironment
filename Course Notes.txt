@@ -23,7 +23,25 @@
 
 4. Development Web Server
   - Express, BrowserSync ...
+  - Sharing Work-in-Progress to public web
+    -- localtunnel : npm install -g localtunnel
+      --- lt --port 3000 --subdomain something
+    -- now.js - cloud deployment - npm install -g now
 5. Automation
+  - Options:
+    - Grunt
+    - Gulp
+    - npm scripts
+      - Advantages of npm scripts
+        -- Use tools directly
+        -- No need for separate plugins i.e. Gulp plugins
+        -- Simpler debugging
+        -- Betters docs - use tools docs, not plugin docs
+        -- Easy to learn
+        -- Simple
+        https://medium.freecodecamp.com/why-i-left-gulp-and-grunt-for-npm-scripts-3d6853dd22b8#.s10nbv5u2
+      - pre/post hooks: prestart, poststart etc
+  - Concurrent Tasks: "start": "npm-run-all --parallel security-check open:src",
 6. Transpiling
 7. Bundling
 8. Linting

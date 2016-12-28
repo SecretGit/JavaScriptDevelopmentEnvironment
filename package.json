@@ -3,6 +3,13 @@
   "version": "1.0.0",
   "description": "JavaScript development environment",
   "scripts": {
+    "prestart": "node buildScripts/startMessage.js",
+    "start": "npm-run-all --parallel security-check open:src",
+    "open:src": "node buildScripts/srcServer.js",
+    "security-check": "nsp check",
+    "localtunnel": "lt --port 3000 --subdomain secretgit",
+    "share": "npm-run-all --parallel open:src localtunnel"
+
   },
   "author": "JL",
   "license": "MIT",
