@@ -17,6 +17,10 @@
  - .editorconfig
 
 3. Package Management
+  - Package Security
+    - Node Security Platform - npm install -g nsp
+       -- commands: nps check
+
 4. Development Web Server
 5. Automation
 6. Transpiling
