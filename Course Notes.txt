@@ -22,6 +22,7 @@
        -- commands: nps check
 
 4. Development Web Server
+  - Express, BrowserSync ...
 5. Automation
 6. Transpiling
 7. Bundling
