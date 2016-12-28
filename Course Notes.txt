@@ -13,7 +13,9 @@
         -- Automated checklist
 
 
-2. Editors Configuration
+2. Editors and Configuration
+ - .editorconfig
+
 3. Package Management
 4. Development Web Server
 5. Automation
@@ -28,6 +30,7 @@
 ### Good quotes
 - Boilerplates are good because they might act as a checklist i.e. linting, testing etc etc
 - EmberJS is like a religion - you accept it all or you won't fit in
+- Using different tools for Front-End and Back-End means we use best tool for the job
 
 ###
 Boilerplate:
