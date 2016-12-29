@@ -46,6 +46,25 @@
   - Babel - uses .babelrc configuration file (could also be done via package.json)
 
 7. Bundling
+  - Module Formats: IIFE, AMD, CommonJS, UMD, ES6
+  - Why ES6:
+    -- Standardized
+    -- Statically analyzable
+      --- improved autocomplete
+      --- intelligent refactoring
+      --- Fails fast
+      --- Tree shaking
+    -- Easy to read
+      --- Named imports
+      --- Default exports
+  - Webpack
+    -- Not only JS - HTML, CSS, Images, Fonts
+    -- Bundle Splitting
+    -- Hot Module Reloading
+  - Creating webpack.config.dev.js
+  - Sourcemaps - !!! only downloaded when you open developer tools !!!
+
+
 8. Linting
 9. Testing and Continous Integration
 10. HTTP Calls
