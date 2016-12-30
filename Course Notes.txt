@@ -89,6 +89,9 @@
       -- [Alongside]: Easy imports, Clear visibility, no recreating folder structure, moving/refactoring locations
     -- When should test run
       --After Save: Rapid Feedback, Facilities TDD, Automatic
+ - Testing Setup, DOM Testing, Watching Tests
+ - Continuous Integration
+ - Choosing a CI Server: [TravisCi], Appveyor, Jenkins
 
 10. HTTP Calls
 
