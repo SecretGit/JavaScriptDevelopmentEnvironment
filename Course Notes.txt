@@ -64,9 +64,32 @@
   - Creating webpack.config.dev.js
   - Sourcemaps - !!! only downloaded when you open developer tools !!!
 
-
 8. Linting
+  - Why lint?
+    -- Enforce Consistency
+    -- Avoid Mistakes
+  - ESLint
+    -- Config format: .eslintrc
+      -- configuring via package.json - "eslintConfig"
+    -- Which rules ?
+    -- Warnings or Errors ?
+    -- Plugins ? i.e. eslint-plugin-react
+      -- https://github.com/dustinspecker/awesome-eslint
+    -- Preset?
+  -- eslint-loader(webpack) | eslint-watch(not tied to webpack, displays clean message, lint test/build scripts etc)
+
 9. Testing and Continous Integration
+  - Unit Testing Decisions
+    -- Framework: [Mocha], Jasmine, Tape, QUnit, AVA, Jest
+    -- Assertion Library: [Chai], ShouldJS, Expect
+    -- Helper Libraries: [JSDOM], Cheerio
+    -- Where to Run Tests: Browser: Karma, Testem | Headless Browser: PhantomJS | [In-memory DOM: JSDOM]
+    -- Where Do Test Files Belong:
+      -- Centralized (in 'test' folder): Less 'noise' in src folder
+      -- Alongside: Easy imports, Clear visibility, no recreating folder structure, moving/refactoring locations
+    -- When should test run
+      --After Save: Rapid Feedback, Facilities TDD, Automatic
+
 10. HTTP Calls
 
 
