@@ -94,6 +94,24 @@
  - Choosing a CI Server: [TravisCi], Appveyor, Jenkins
 
 10. HTTP Calls
+  - fetch:
+    -- Broswer Polyfill: github.com/github/fetch
+    -- Isomorphic polyfill: github.com/matthew-andrews/isomorphic-fetch
+  - Centralize API Calls
+  - Why send a polyfill to everyone? Polyfill.io
+  - Why Mock HTTP? Unit Test, Instant response, Rapid Prototyping, Work offline, Avoid inter-team bottlenecks
+  - How to Mock HTTP: Nock, Static JSON, Create Dev webserver (api-mock, JSON server, JSON schema faker, BrowserSync )
+  - Plan for mocking:
+    -- JSON Schema Faker - to declare schema
+    -- faker.js| chance.js - generate random Data
+    -- JSON Server - Serve Data via API
+
+    --- JSON Schema
+
+
+
+
+
 
 
 
