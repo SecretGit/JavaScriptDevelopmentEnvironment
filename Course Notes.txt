@@ -108,12 +108,15 @@
 
     --- JSON Schema
 
-
-
-
-
-
-
+11. Project Structure
+  - Why a Demo App?
+    -- Examples of: Directory Structure and file naming, Framework usage, Testing, Mock API, Automated Deployment
+    -- Codifies Decisions
+    -- Interactive example of working with starter
+  - Project Structure Tips:
+    -- JS Belongs in a .js File
+    -- Organize by Feature
+    -- Extract Logic to POJOs - Plain Old JavaScript Object
 
 ### Good quotes
 - Boilerplates are good because they might act as a checklist i.e. linting, testing etc etc
