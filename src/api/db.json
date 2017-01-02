@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 44690565,
+      "firstName": "Trinity",
+      "lastName": "Crist",
+      "email": "Joana.OHara@yahoo.com"
+    },
+    {
+      "id": 90254391,
+      "firstName": "Joanne",
+      "lastName": "Roberts",
+      "email": "Reyes.Heidenreich@yahoo.com"
+    },
+    {
+      "id": 33031421,
+      "firstName": "Jackeline",
+      "lastName": "Bode",
+      "email": "Elisabeth_Streich@hotmail.com"
+    },
+    {
+      "id": 23133922,
+      "firstName": "Devyn",
+      "lastName": "Wintheiser",
+      "email": "Moises88@gmail.com"
+    }
+  ]
+}
