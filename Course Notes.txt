@@ -118,6 +118,13 @@
     -- Organize by Feature
     -- Extract Logic to POJOs - Plain Old JavaScript Object
 
+12. Production Build
+  - Minification
+    - Webpack Configuration
+  - Configure Local / dist server
+  - Dynamic HTML
+  - Bundle Splitting
+
 ### Good quotes
 - Boilerplates are good because they might act as a checklist i.e. linting, testing etc etc
 - EmberJS is like a religion - you accept it all or you won't fit in
