@@ -124,6 +124,10 @@
   - Configure Local / dist server
   - Dynamic HTML
   - Bundle Splitting
+  - Cache Busting
+    - Hash bundle filename
+    - Generate HTML dynamically
+      -- MD5 Hash
 
 ### Good quotes
 - Boilerplates are good because they might act as a checklist i.e. linting, testing etc etc
