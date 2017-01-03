@@ -128,6 +128,9 @@
     - Hash bundle filename
     - Generate HTML dynamically
       -- MD5 Hash
+  - Extract and minify CSS
+  - Error Logging
+  - HTML Templates via EmbeddedJS
 
 ### Good quotes
 - Boilerplates are good because they might act as a checklist i.e. linting, testing etc etc

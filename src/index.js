@@ -2,6 +2,7 @@
  * Created by jl
  */
 import { getUsers, deleteUser } from './api/userApi';
+import './index.css';
 
 getUsers().then(result => {
   let usersBody = "";
